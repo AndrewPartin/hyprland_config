@@ -1,2 +1,3 @@
 # hyprland_config
-My custom config for the Hyprland compositor
+My custom config for the Hyprland compsitor
+![Screenshot](screenshot.png)
